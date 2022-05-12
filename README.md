@@ -24,11 +24,3 @@ NPWD: https://github.com/project-error/npwd
 This job is only in the cooperation with me : https://github.com/waschmaschvanlu created so let him also a star there.
 
 If you have any questions, feel free to ask them under issues.
-
-
-
-
-
-
-
-Translated with www.DeepL.com/Translator (free version)
