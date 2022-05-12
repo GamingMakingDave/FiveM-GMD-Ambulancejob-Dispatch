@@ -2,6 +2,8 @@ I have made an ambulance job for you which makes sending a dispatch WITHOUT cell
 
  You can simply accept or decline your emergency calls via the Notify system. 
 
+Also you can report off/on duty for this you need another script which I have adapted which follows.
+
 For this you need the T-Notify-System: https://github.com/TasoOneAsia/t-notify
 
 Also the bugging on the floor was fixed your medics get a 3D draw text where the person is lying. 
